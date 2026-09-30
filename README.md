@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I'm **Ehaab Ullah**, a Software Engineer and Full-Stack Developer focused on building modern, scalable web applications and intelligent software solutions.<br><br>* 💻 Full-Stack Development with **MERN & Next.js**<br>* 🤖 Interested in **AI/ML and NLP**<br>* 🚀 Building **SaaS and real-world software applications**<br>* 🔬 Interested in **research and applied AI**<br>* 📚 **Certified Scrum Master**<br>* 🌐 Portfolio: **https://codewithehaab-com.vercel.app/**<br>
+<br><br>I'm **Ehaab Ullah**, a Software Engineer and Full-Stack Developer focused on building modern, scalable web applications and intelligent software solutions.<br><br>* 💻 Full-Stack Development with **MERN & Next.js**<br>* 🤖 Interested in **AI/ML and NLP**<br>* 🚀 Building **SaaS and real-world software applications**<br>* 🔬 Interested in **research and applied AI**<br>* 📚 **Certified Scrum Master**<br>* 🌐 Portfolio: **https://codewithehaab-com.vercel.app/**<br>
 
 
 ## 🌐 Socials:
